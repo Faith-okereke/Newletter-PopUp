@@ -20,16 +20,15 @@ export default function PopUp({ setModal,email }) {
             subscription.
           </p>
         </div>
+        <div className="fixed md:sticky w-[90%] bottom-6 left-1/2 md:translate-x-0 md:transform-none transform -translate-x-1/2 md:w-full flex justify-center">
+  <button
+    className="bg-darkBlue text-white p-3 rounded-md mt-6 mx-2 md:mx-0 hover:bg-linearGradient w-full"
+    onClick={closeModal}
+  >
+    Dismiss message
+  </button>
+</div>
 
-        <div className="absolute w-full bottom-6 left-0 md:sticky">
-          <button
-            className="bg-darkBlue text-white p-3 rounded-md mt-6 mx-2 md:mx-0 hover:bg-linearGradient w-full"
-            onClick={closeModal}
-          >
-            {" "}
-            Dismiss message
-          </button>
-        </div>
       </div>
     </div>
   );
