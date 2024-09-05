@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  padding-top: 12px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+body{
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+.error{
+  background-color: hsl(4, 100%, 81%);
+  border: 1px solid red;
+}
+.noError{
+  border: 1px solid hsl(231, 7%, 60%);
+}
+::placeholder{
+  z-index: 10;
+}
+button:hover{
+  background: linear-gradient( to right,  hsl(354, 100%, 67%), hsl(4, 100%, 67%));
+}
