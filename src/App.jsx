@@ -113,7 +113,7 @@ function App() {
             >
               Frontend Mentor
             </a>
-            . Coded by <a href="#">Your Name Here</a>.
+            . Coded by <a href="https://www.frontendmentor.io/profile/Faith-okereke">Okereke FAith</a>.
           </div>
         </>
       )}

@@ -32,12 +32,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./![alt text](image.png))
+(./![alt text](image.png))
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Faith-okereke/Newletter-PopUp.git](https://github.com/Faith-okereke/Newletter-PopUp.git)
+- Live Site URL: [https://newletter-pop-up.vercel.app/](https://newletter-pop-up.vercel.app/)
 
 ### Built with
 
@@ -50,6 +50,5 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Faith-okereke](https://www.frontendmentor.io/profile/Faith-okereke)
 - Twitter - [@girlgroovee](https://www.twitter.com/girlgroovee)
