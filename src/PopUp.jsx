@@ -21,7 +21,7 @@ export default function PopUp({ setModal,email }) {
           </p>
         </div>
 
-        <div className="absolute w-full bottom-10 md:sticky">
+        <div className="absolute w-full bottom-6 left-0 md:sticky">
           <button
             className="bg-darkBlue text-white p-3 rounded-md mt-6 mx-2 md:mx-0 hover:bg-linearGradient w-full"
             onClick={closeModal}
