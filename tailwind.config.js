@@ -12,7 +12,8 @@ export default {
         'tomato':'hsl(4, 100%, 67%)'
       },
       backgroundColor:{
-        'linearGradient' : 'to right, hsl(4, 100%, 67%), hsl(354, 100%, 67%)'
+        'linearGradient' : 'to right, hsl(4, 100%, 67%), hsl(354, 100%, 67%)',
+        'dark':'hsl(234, 29%, 20%)'
       }
     },
   },

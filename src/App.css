@@ -5,6 +5,7 @@
   font-size: 11px;
   text-align: center;
   padding-top: 12px;
+  color:white;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
@@ -13,6 +14,7 @@ body{
   display: grid;
   place-items: center;
   min-height: 100vh;
+  background-color:hsl(234, 29%, 20%);
 }
 .error{
   background-color: hsl(4, 100%, 81%);

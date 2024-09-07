@@ -33,7 +33,7 @@ function App() {
     }
   };
   return (
-    <div className="">
+    <div className="bg-dark">
       {modal && <PopUp setModal={setModal} email={email}/>}
 
       {!modal && (
